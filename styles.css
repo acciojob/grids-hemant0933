@@ -1,2 +1,29 @@
+*{
+    margin: 20px ;
+}
+.row-1{
+    width: 95vw;
+    height: 50vh;
+    border: 1px solid black;
+}
+#col1{
+    background-color: rgb(38, 119, 43);
+    width:500px;
+    height:300px;
+    border: 1px solid black;
+    border: 3px dotted black;
+    margin: 5px;
+}
+#col2{
+    width:500px;
+    height:300px;
+    background-color:rgb(224, 188, 224);
+    border: 3px dotted black;
+    margin: 5px;
+}
+
+
+
+
 
 /* Your CSS Code here. */
